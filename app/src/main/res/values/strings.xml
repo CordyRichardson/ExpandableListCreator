@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ExpandableListCreator</string>
+
+    <!--Group names are placeholders -->
+
+    <string-array name="parent_group">
+        <item>Parent A</item>
+        <item>Parent B</item>
+        <item>Parent C</item>
+        <item>Parent D</item>
+        <item>Parent E</item>
+    </string-array>
+
+    <string-array name="group_A_children">
+        <item>Child A1</item>
+        <item>Child A2</item>
+        <item>Child A3</item>
+        <item>Child A4</item>
+        <item>Child A5</item>
+    </string-array>
+
+    <string-array name="group_B_children">
+        <item>Child B1</item>
+        <item>Child B2</item>
+        <item>Child B3</item>
+        <item>Child B4</item>
+        <item>Child B5</item>
+    </string-array>
+
+    <string-array name="group_C_children">
+        <item>Child C1</item>
+        <item>Child C2</item>
+        <item>Child C3</item>
+        <item>Child C4</item>
+        <item>Child C5</item>
+    </string-array>
+
+    <string-array name="group_D_children">
+        <item>Child D1</item>
+        <item>Child D2</item>
+        <item>Child D3</item>
+        <item>Child D4</item>
+        <item>Child D5</item>
+    </string-array>
+
+    <string-array name="group_E_children">
+        <item>Child E1</item>
+        <item>Child E2</item>
+        <item>Child E3</item>
+        <item>Child E4</item>
+        <item>Child E5</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+
+</resources>
